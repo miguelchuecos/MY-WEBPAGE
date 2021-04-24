@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Index</h1>
-    <h2>mario comeme la polla</h2>
+    <h2>In this webpage I'm going to talk about Internet aspects</h2>
     <a href="https://miguelchuecos.github.io/MY-WEBPAGE/Accesibility-standarts.html"> Accessibility Standards</a>
   </body>
   
